@@ -1,0 +1,11 @@
+
+   fonts
+<link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
+
+font-family: "Arvo", cursive;
+
+colors
+
+ sky blue -- #DBEDF3
+ dark -- #404B69
+ red -- #DA0463
